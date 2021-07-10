@@ -6,8 +6,6 @@ The purpose of this analysis is to transform the given data into a summary indic
 
 ## Results
 
-Results: Using bulleted lists and images of DataFrames as support, address the following questions.
-
 - How is the district summary affected?
 
 At first sight it seems that the district summary was not affected into significant proportions by the changes applied, the difference can be seen when looking at the significant figures of the measures as seen on the images below.
